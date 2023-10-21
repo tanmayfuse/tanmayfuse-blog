@@ -2,7 +2,7 @@
 enableSearch = true
 
 # socials
-twitter = "@janedoe"
+# twitter = "@janedoe"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
@@ -12,10 +12,10 @@ introDescription = "Technologist, perpetual student, teacher, continual incremen
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
 # Google analytics Id
-ga_analytics = ""
+# ga_analytics = ""
 
 # Google tag manager
-google_tag_manager_id = ""
+# google_tag_manager_id = ""
 
 # Baidu analytics Id
 # baidu_analytics = "XXXXXXXX"
@@ -94,7 +94,7 @@ enforceLightMode = false
 # disclaimerText = "The opinions expressed on this site are my own personal opinions and do not represent my employer’s view in any way."
 
 # Text for the languages menu.
-languageMenuName = "🌐"
+# languageMenuName = "🌐"
 
 # Title separator, default to |.
 # titleSeparator = "|"
@@ -135,17 +135,17 @@ languageMenuName = "🌐"
 
 # website author
 [author]
-name = "Jane Doe"
+name = "Tanmay Fuse"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
-[plausible_analytics]
-enable = false # to enable plausible analytics set to true.
-websiteDomain = "example.com" # domain name of your website, most cases same as your base url
+# [plausible_analytics]
+# enable = false # to enable plausible analytics set to true.
+# websiteDomain = "example.com" # domain name of your website, most cases same as your base url
 # plausibleDomain = "plausible.io" # default is set to plausible.io, only required if plausible is selfhosted
 # scritpName = "plausible" # default is set to plausible, only required if using a custome name for script
 
-[matomo_analytics]
-enable = false # To enable matomo analytics change to `true`.
-websiteDomain = "example.com" # Set the domain name of your website, in most cases same as your base URL this is required.
-matomoDomain = "matomo.example.com" # Set to Matomo domain
-matomoSiteID = "1" # Default is set to 1, change this to the siteid being tracked
+# [matomo_analytics]
+# enable = false # To enable matomo analytics change to `true`.
+# websiteDomain = "example.com" # Set the domain name of your website, in most cases same as your base URL this is required.
+# matomoDomain = "matomo.example.com" # Set to Matomo domain
+# matomoSiteID = "1" # Default is set to 1, change this to the siteid being tracked
