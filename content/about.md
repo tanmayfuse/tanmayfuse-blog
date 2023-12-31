@@ -27,4 +27,4 @@ Looking ahead, I'm gearing up to onboard Dynatrace Monaco, a step towards automa
 # Personal Growth
 Beyond the technical realm, I'm actively engaged in personal growth. Learning Golang and the Cobra CLI Golang library for my project is not just a professional pursuit but a personal passion to contribute to the ever-evolving tech landscape.
 
-Join me on this exciting journey as I navigate the intricate world of DevOps, share insights, and explore the limitless possibilities of technology. Welcome to my blog
+Join me on this exciting journey as I navigate the intricate world of DevOps, share insights, and explore the limitless possibilities of technology. Welcome to my blog.
